@@ -1,0 +1,9 @@
+{
+  "name": "vue-cli-template-vant",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "vue-cli template with vant",
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
