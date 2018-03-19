@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <van-cell-group class="item-list">
-      <van-cell isLink icon="points" title="我的积分" />
-      <van-cell isLink icon="gift" title="我收到的礼物" />
+      <van-cell is-link icon="points" title="我的积分" />
+      <van-cell is-link icon="gift" title="我收到的礼物" />
     </van-cell-group>
   </div>
 </template>
