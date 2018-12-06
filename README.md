@@ -1,5 +1,7 @@
 # vue-cli-template-vant
 
+注意：本仓库适用于 vue-cli 2.0, vue-cli 3.0 请参考：https://youzan.github.io/vant/#/zh-CN/quickstart
+
 > vue-cli template for vant;
 
 ## Usage
